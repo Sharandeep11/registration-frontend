@@ -1,0 +1,22 @@
+.landing-page {
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  margin: 20px 0;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.home {
+  margin-top: 20px;
+}
